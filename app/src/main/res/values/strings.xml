@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TNG Travel</string>
+    <string name="sex">Giới tính</string>
+
+    <string-array name="sex">
+        <item>Nam</item>
+        <item>Nữ</item>
+
+    </string-array>
+
+</resources>

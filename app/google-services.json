@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842233040581",
+    "firebase_url": "https://tour-c1a3f-default-rtdb.firebaseio.com",
+    "project_id": "tour-c1a3f",
+    "storage_bucket": "tour-c1a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842233040581:android:429e3318326f6a07da2aac",
+        "android_client_info": {
+          "package_name": "com.example.frag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842233040581-4kv68ft6ini7498f4riqkhnv5lvngvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KsDfOUKt7LVluhOEYzSeyhD6fzmF2qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842233040581-4kv68ft6ini7498f4riqkhnv5lvngvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
